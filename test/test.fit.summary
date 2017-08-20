@@ -1,0 +1,11 @@
+Fitter Status : Successful - Sun Feb 12 11:36:00 2017
+Quartus II Version : 11.0 Build 157 04/27/2011 SJ Web Edition
+Revision Name : test
+Top-level Entity Name : test
+Family : MAX V
+Device : 5M1270ZT144C5
+Timing Models : Final
+Total logic elements : 471 / 1,270 ( 37 % )
+Total pins : 5 / 114 ( 4 % )
+Total virtual pins : 0
+UFM blocks : 0 / 1 ( 0 % )
